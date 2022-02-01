@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a postdoc on the [ERC DarkMix project](http://www.bayceer.uni-bayreuth.de/meteo/de/erc1/gru/html.php?id_obj=139240). My work focuses on building the software infrastructure and analytic techniques for the large and spatially-complex data from Distributed Temperature Sensing. Most of time on github focuses on the pyfocs library.
+My work focuses on building the software infrastructure and analytic techniques for the large and spatially-complex data.
 
 <!--
 **klapo/klapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
