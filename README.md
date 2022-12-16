@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My work focuses on building the software infrastructure and analytic techniques for the large and spatially-complex data.
+My work focuses on building the software infrastructure and analytic techniques for the large and spatially-complex data typical of geosciences.
 
 <!--
 **klapo/klapo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
