@@ -6,7 +6,7 @@ My work focuses on building tools suited towards the complexities of multi-scale
 Active collaborations with:
 - University of Innsbruck [Turbulence Group](https://www.uibk.ac.at/en/acinn/research/atmospheric-turbulence/)
 - The [AI Institute](https://dynamicsai.org/) at the University of Washington
-- The [Allen Turing Institue](https://www.turing.ac.uk/)
+- The [Alan Turing Institue](https://www.turing.ac.uk/)
 
 ### Current Work
 
